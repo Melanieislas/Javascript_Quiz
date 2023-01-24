@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <button class="High-score"> View High Scores!</button>
+        <div class="Time-Remaining">Time Remaining: <span class="Timer">60</span> </div>
+    </header>
+
+    <main>
+        <section class="High-score-display">
+            <h2>High Scores:</h2>
+            <div class="Stored-Initials"></div>
+            <button class="Clear">Clear High Scores</button>
+        </section>
+
+        <section class="question">
+            <button class="Start-button">Start</button>
+            <div class="Question-container">
+                <h2>Question</h2>
+                <div class="Options">
+                    <ul>
+                        <button>1.</button>
+                        <button>2.</button>
+                        <button>3.</button>
+                        <button>4.</button>
+                    </ul>
+                </div>
+                <div class="Correct">Correct!</div>
+            </div>
+        </section>
+
+        <section class="Enter-High-score-container">
+            <div class="Enter-Information">
+                <h2>Save Your Score!</h2>
+                <h3>Your final score is: </h3>
+                <div class="Final-score-display"></div>
+                <label for="Initials">Enter Initials To Save Score: </label>
+                <input type="Initials" id="Initials" name="Initials" placeholder="Enter Initials Here">
+                <div class="Enter-Initials"></div>
+                <button class="Submit-initials">Submit</button>
+            </div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+
+</body>
+</html>

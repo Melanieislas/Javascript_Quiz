@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+  }
+
+  header {
+    padding: 10px;
+  }
+
+  .High-score {
+    text-align: left;
+    font-size: 20px;
+    background-color: rgb(188, 104, 8);
+    outline-style: dotted;
+  }
+
+  .Time-Remaining {
+    text-align: right;
+  }
+
+  body {
+    font-family: Arial;
+    display: flex;
+    flex-direction: column;
+  }
+
+  main {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+    text-align: center;
+  }
+
+  .High-score-display {
+    width: 100%;
+    padding: 30px;
+  }
+
+  .question {
+    width: 100%;
+  }
+
+  .Enter-High-score-container {
+    width: 100%;
+  }
+  
