@@ -11,16 +11,21 @@
     font-size: 20px;
     background-color: rgb(188, 104, 8);
     outline-style: dotted;
+    margin: 20px;
+    margin-top: 30px;
   }
 
   .Time-Remaining {
     text-align: right;
+    font-size: 20px;
+    margin-right: 20px;
   }
 
   body {
     font-family: Arial;
     display: flex;
     flex-direction: column;
+    background-color: rgb(255, 233, 208);
   }
 
   main {
@@ -33,13 +38,75 @@
   .High-score-display {
     width: 100%;
     padding: 30px;
+    display: none;
+  }
+
+  .Stored-Initials {
+    outline-style: double;
+    outline-color:  rgb(248, 182, 106);
+    margin: 20px;
+    padding: 20px;
+    width: 50%;
+    display: inline-block;
+    flex-direction: column;
+  }
+
+  .Clear {
+    font-size: 20px;
+    background-color: rgb(188, 104, 8);
+    margin: auto;
+    display: flex;
+  }
+
+  .Start-button {
+    font-size: 20px;
+    background-color: rgb(188, 104, 8);
+    margin: auto;
+    display: flex;
   }
 
   .question {
     width: 100%;
+    display: none;
+  }
+
+  .Options {
+    display: inline-block;
+    flex-direction: column;
+    width: 50%;
+  }
+
+  .multiple-choices {
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+    text-align: left;
+    background-color: rgb(248, 182, 106);
+  }
+
+  .Correct {
+    margin: 30px;
+    font-size: 25px;
+    outline-style: double;
+    outline-color: rgb(188, 104, 8);
+    padding: 10px
   }
 
   .Enter-High-score-container {
     width: 100%;
+    display: none;
+  }
+
+  .intials-container {
+    padding: 20px;
+    font-size: 25px;
   }
   
+  .Submit-initials {
+    font-size: 20px;
+    background-color: rgb(188, 104, 8);
+  }
+
+  h2 {
+    font-size: 50px;
+  }
