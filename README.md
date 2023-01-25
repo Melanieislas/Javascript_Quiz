@@ -21,6 +21,10 @@ This screenshot shows the generated password with 10 total characters including 
 
 ![JS-Save-score](https://user-images.githubusercontent.com/120453099/214456734-b06ca687-f406-4f04-978c-324e1017cedd.png)
 
+jjjj
+
+![HS-Screen](https://user-images.githubusercontent.com/120453099/214456993-ab349b2c-6c56-4074-8b65-2e9853e90e78.png)
+
 ## License
 
 For this repository, I used the MIT License.
