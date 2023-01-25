@@ -2,9 +2,10 @@
 
 ## Description
 
-- My motivation for this project was to demonstrate and practice the skills I learned in class to build a interactive webpage through javascript
-- This project helps the user generate a strong password with chosen criteria
-- From this project, I learned how to incorporate for and while loops to generate the strong password with criteria chosen by the user
+- My motivation for this project was to create a web aplication from scratch implementing html layout, css styles and javascript for user interation
+- This webpage is a Javascript quiz that has a 60 second timer and multiple choices with four questions
+- From this project, I learned how to add a timer on Javascript, and how to use query selectors and getElementbyID to link my html and css sheet and manipulate them through javascript
+- In addition, I used buttons to switch between screens with html and make them interactive
 
 ## Usage
 
