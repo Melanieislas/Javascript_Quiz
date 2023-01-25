@@ -9,7 +9,7 @@
 
 ## Usage
 
-Link to Deployed Application: 
+Link to Deployed Application: https://melanieislas.github.io/Javascript_Quiz/
 
 The following screenshot shows the homepage with a description of the quiz and a start button, timer starts at 60 seconds
 
