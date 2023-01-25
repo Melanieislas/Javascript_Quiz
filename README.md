@@ -15,7 +15,7 @@ The following screenshot demonstrates the homepage of the password generator
 
 The following screenshot shows the window that prompts up when the user clicks on the button "Generate Password"
 
-![Password Generator asking user for criteria](https://user-images.githubusercontent.com/120453099/212822370-9b74642a-5b27-407b-ad3c-20d9ead8927f.png)
+![JS-Quiz-Question](https://user-images.githubusercontent.com/120453099/214456677-a9e29257-7f9b-4b42-99b5-a3d8fd5c1353.png)
 
 This screenshot shows the generated password with 10 total characters including uppercase letters, lowercase letters, special characters and numbers.
 
