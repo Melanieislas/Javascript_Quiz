@@ -11,7 +11,7 @@
 
 The following screenshot demonstrates the homepage of the password generator
 
-![Generator Homescreen](https://user-images.githubusercontent.com/120453099/212822254-79609ed4-d9ef-4844-aa99-67fc2d342485.png)
+![JS-Quiz-Homepg](https://user-images.githubusercontent.com/120453099/214456584-632add60-9d93-4750-8efc-ac79e4092e08.png)
 
 The following screenshot shows the window that prompts up when the user clicks on the button "Generate Password"
 
