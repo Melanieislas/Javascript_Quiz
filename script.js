@@ -35,7 +35,7 @@ document.getElementById('Start-button').addEventListener("click", function timer
             var initials = document.getElementById('Initials');
 
             function Question1() {
-                Question.innerHTML = Question.innerHTML.replace("What funtion returns a true or false?", "Which loop iterates as long as the conditon is true?");
+                Question.innerHTML = Question.innerHTML.replace("What function returns a true or false?", "Which loop iterates as long as the conditon is true?");
             }
             function Question2() {
                 clearInterval(timerInterval);
