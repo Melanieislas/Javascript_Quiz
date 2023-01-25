@@ -9,6 +9,8 @@
 
 ## Usage
 
+Link to Deployed Application: 
+
 The following screenshot shows the homepage with a description of the quiz and a start button, timer starts at 60 seconds
 
 ![JS-Quiz-Homepg](https://user-images.githubusercontent.com/120453099/214456584-632add60-9d93-4750-8efc-ac79e4092e08.png)
