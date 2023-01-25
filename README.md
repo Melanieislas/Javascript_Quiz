@@ -19,7 +19,7 @@ The following screenshot shows the window that prompts up when the user clicks o
 
 This screenshot shows the generated password with 10 total characters including uppercase letters, lowercase letters, special characters and numbers.
 
-![Password Generated](https://user-images.githubusercontent.com/120453099/212822488-6f9bdbf1-8f66-4656-80e8-fffdf942b5c9.png)
+![JS-Save-score](https://user-images.githubusercontent.com/120453099/214456734-b06ca687-f406-4f04-978c-324e1017cedd.png)
 
 ## License
 
